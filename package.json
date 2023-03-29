@@ -1,0 +1,14 @@
+{
+    "name": "k8s-pulumi",
+    "main": "index.ts",
+    "devDependencies": {
+        "@types/node": "^16.18.22"
+    },
+    "dependencies": {
+        "@pulumi/awsx": "^1.0.2",
+        "@pulumi/docker": "^4.1.0",
+        "@pulumi/kubernetes": "latest",
+        "@pulumi/kubernetesx": "^0.1.0",
+        "@pulumi/pulumi": "latest"
+    }
+}

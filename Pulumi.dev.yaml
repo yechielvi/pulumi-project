@@ -1,0 +1,4 @@
+config:
+  k8s-pulumi:dockerPassword:
+    secure: <fill>
+  k8s-pulumi:dockerUsername: <fill>
